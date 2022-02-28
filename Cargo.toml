@@ -1,5 +1,12 @@
+
 [package]
 name = "pi_data_view"
 version = "0.1.0"
-authors = ["suncy <suncy@gmail.com>"]
-edition = "2018"
+authors = ["moyy <moyy@gmail.com>"]
+edition = "2021"
+description = "data view for bytes."
+repository = "https://github.com/GaiaWorld/pi_data_view"
+license = "MIT OR Apache-2.0"
+keywords = ["pi", "data view", "bytes"]
+
+[dependencies]
