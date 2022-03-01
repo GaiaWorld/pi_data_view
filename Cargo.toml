@@ -10,3 +10,6 @@ license = "MIT OR Apache-2.0"
 keywords = ["pi", "view", "bytes"]
 
 [dependencies]
+
+[badges]
+maintenance = { status = "deprecated" }
